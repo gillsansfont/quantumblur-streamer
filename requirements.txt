@@ -1,0 +1,15 @@
+# QuantumBlur core code
+git+https://github.com/qiskit-community/QuantumBlur.git
+
+# Quantum computing backend
+qiskit
+
+# Web framework & server
+fastapi[standard]
+uvicorn[standard]
+
+# Image capture & processing
+opencv-python
+pillow
+numpy
+scipy
